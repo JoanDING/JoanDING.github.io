@@ -1,0 +1,111 @@
+# jemdoc: menu{MENU}{publications.html}
+# jemdoc: nofooter
+= Yujuan Ding - Publications
+
+
+== Conferences and Journals  \[[https://scholar.google.com/citations?hl=zh-CN&user=7cLi1BoAAAAJ&hl=en  *Google Scholar*]\]
+
+
+- *Yujuan Ding*, Zhihui Lai, P.Y. Mok and Tat-Seng Chua\n
+   *Computational Technologies for Fashion Recommendation: A Survey* \n
+   in ACM Computing Survey (*CSUR*), 2023.  \n
+   \[[https://dl.acm.org/doi/10.1145/3627100 PDF]\]
+
+- *Yujuan Ding*, P.Y. Mok, Yi Bin, Xun Yang and Zhiyong Cheng\n
+   *Modeling Multi-Relational Connectivity for Personalized Fashion Matching* \n
+   in ACM International Conference on Multimedia (*ACM MM*), 2023.  \n
+   \[[https://dl.acm.org/doi/abs/10.1145/3581783.3612583 PDF]\] \[[https://github.com/JoanDING/CP_TransMatch CODE]\]
+   
+- *Yujuan Ding*, P.Y. Mok, Yunshan Ma and Yi Bin\n
+   *Personalized fashion outfit generation with user coordination preference learning* \n
+   in Information Processing & Management (*IP&M*), 2023.  \n
+   \[[https://www.sciencedirect.com/science/article/abs/pii/S0306457323001711 PDF]\]   
+ 
+- *Yujuan Ding*, P.Y. Mok, Xun Yang and Yanghong Zhou\n
+   *Modeling Field-Level Factor Interactions for Fashion Recommendation* \n
+   in IEEE International Conference on Multimedia and Expo (*ICME*), 2022.  \n
+   \[[https://ieeexplore.ieee.org/abstract/document/9859989 PDF]\]  
+
+- *Yujuan Ding*,  Yunshan Ma, Wai Keung Wong and Tat-Seng Chua\n
+   *Leveraging two types of global graph for sequential fashion recommendation* \n
+   in ACM International Conference on Multimedia Retrieval (*ICMR*), 2021.  /*Best Student Paper*/ \n
+   \[[https://dl.acm.org/doi/abs/10.1145/3460426.3463638 PDF]\]  \[[https://github.com/JoanDING/DGSR CODE]\]
+   
+- *Yujuan Ding*, Yunshan Ma, Wai Keung Wong and Tat-Seng Chua\n
+   *Modeling instant user intent and content-level transition for sequential fashion recommendation* \n
+   in IEEE Transactions on Multimedia (*TMM*), 2021. \n
+   \[[https://ieeexplore.ieee.org/abstract/document/9451610 PDF]\]     \[[https://github.com/JoanDING/ACTR CODE]\]     
+   
+- *Yujuan Ding*\*, Yunshan Ma\*, Wai Keung Wong and Tat-Seng Chua\n
+   *Leveraging multiple relations for fashion trend forecasting based on social media* \n
+   in IEEE Transactions on Multimedia (*TMM*), 2021. Equal Contribution \n
+   \[[https://ieeexplore.ieee.org/abstract/document/9428602 PDF]\] 
+   
+- *Yujuan Ding*, Wai Keung Wong, Zhihui Lai and Zheng Zhang\n
+   *Discriminative dual-stream deep hashing for large-scale image retrieval* \n
+   in Information Processing & Management (*IP&M*), 2020. \n
+   \[[https://www.sciencedirect.com/science/article/abs/pii/S0306457320307834 PDF]\] 
+   
+- Yunshan Ma\*, *Yujuan Ding*\*, Xun Yang, Lizi Liao, Wai Keung Wong and Tat-Seng Chua\n
+   *Knowledge enhanced neural fashion trend forecasting* \n
+   in ACM International Conference on Multimedia Retrieval (*ICMR*), 2020.  Equal Contribution \n
+   \[[https://dl.acm.org/doi/abs/10.1145/3372278.3390677 PDF]\]  \[[https://github.com/mysbupt/KERN_reproduce CODE]\]
+   
+- *Yujuan Ding*, Wai Keung Wong, Zhihui Lai and Yudong Chen\n
+   *Study on 2D feature-based hash learning* \n
+   in IEEE Transactions on Multimedia (*TMM*), 2020. \n
+   \[[https://ieeexplore.ieee.org/abstract/document/8832208 PDF]\]     
+   
+- *Yujuan Ding*, Wai Keung Wong, Zhihui Lai and Zheng Zhang\n
+   *Bilinear supervised hashing based on 2D image features* \n
+   in IEEE Transactions on Circuits and Systems for Video Technology (*TCSVT*), 2020. \n
+   \[[https://ieeexplore.ieee.org/abstract/document/8604087 PDF]\]  
+
+- *Yujuan Ding* and Wai Keung Wong\n
+   *Fashion outfit style retrieval based on hashing method* \n
+   in Artificial Intelligence on Fashion and Textiles Conference (*AIFT*), 2020. \n
+   \[[https://link.springer.com/chapter/10.1007/978-3-319-99695-0_23 PDF]\]  
+   
+- Shuiying Liao, *Yujuan Ding* and P.Y. Mok\n
+   *Recommendation of mix-and-match clothing by modeling indirect personal compatibility* \n
+   in ACM International Conference on Multimedia Retrieval (*ICMR*), 2023. \n
+   \[[https://dl.acm.org/doi/abs/10.1145/3591106.3592224 PDF]\]   
+   
+   
+- Yi Bin, *Yujuan Ding*, Bo Peng, Liang Peng, Yang Yang, Tat-Seng Chua\n
+   *Entity slot filling for visual captioning* \n
+   in IEEE Transactions on Circuits and Systems for Video Technology (*TCSVT*), 2021. \n
+   \[[https://ieeexplore.ieee.org/abstract/document/9366817 PDF]\]  
+   
+   
+- Yunshan Ma, *Yujuan Ding*, Xun Yang, Lizi Liao, Wai Keung Wong, Tat-Seng Chua, Jinyoung Moon and Hong-Han Shuai\n
+   *Reproducibility companion paper: Knowledge enhanced neural fashion trend forecasting* \n
+   in ACM International Conference on Multimedia Retrieval (*ICMR*), 2022. \n
+   \[[https://dl.acm.org/doi/abs/10.1145/3460426.3463598 PDF]\]   
+   
+   
+- Yudong Chen, Zhihui Lai, *Yujuan Ding*, Kaiyi Lin, Wai Keung Wong\n
+   *Deep supervised hashing with anchor graph* \n
+   in IEEE/CVF international conference on computer vision (*ICCV*), 2019.\n
+   \[[https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Deep_Supervised_Hashing_With_Anchor_Graph_ICCV_2019_paper.html PDF]\]  
+   
+- Yi Bin, Wenhao Shi, *Yujuan Ding*, Yang Yang, See-Kiong Ng\n
+   *Solving Math Word Problems with Reexamination* \n
+   in Conference on Empirical Methods in Natural Language Processing (*EMNLP*), 2023. \n
+   \[[https://arxiv.org/abs/2310.09590 PDF]\]     
+   
+- Yi Bin, Wenhao Shi, Bin Ji, Jipeng Zhang, *Yujuan Ding*, Yang Yang\n
+   *Non-Autoregressive Sentence Ordering* \n
+   in Conference on Empirical Methods in Natural Language Processing (*EMNLP*), 2023. \n
+   \[[https://arxiv.org/abs/2310.12640 PDF]\]  
+
+- Yi Bin, Wenhao Shi, Jipeng Zhang, *Yujuan Ding*, Yang Yang, Heng Tao Shen\n
+   *Non-Autoregressive Cross-Modal Coherence Modelling* \n
+   in ACM International Conference on Multimedia (*ACM MM*), 2023.\n
+   \[[https://dl.acm.org/doi/abs/10.1145/3503161.3548184 PDF]\]  
+
+- Yi Bin, Xindi Shang, Bo Peng, *Yujuan Ding*, Tat-Seng Chua\n
+   *Multi-perspective video captioning* \n
+   in ACM International Conference on Multimedia (*ACM MM*), 2021.\n
+   \[[https://dl.acm.org/doi/abs/10.1145/3474085.3475173 PDF]\]  
+   
