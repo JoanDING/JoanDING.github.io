@@ -3,7 +3,7 @@
 = Yujuan Ding
 
 ~~
-{}{img_left}{images/yujuan.jpg}{Image of Yujuan}{160}{175}{images/yujuan.JPG}
+{}{img_left}{images/yujuan.jpg}{Image of Yujuan}{160}{180}{images/yujuan.JPG}
 
 Postdoctoral Fellow \n
 Department of Computing \n
@@ -50,7 +50,7 @@ Send me an email if you are interested.
 
 == News
 : {*2023*}
-- 11/2023: Our workshop on “[. *Large Language Models (LLMs) for Graph Learning*]” is accepted by The Web Conference 2024 (*WWW 2024*). 
+- 11/2023: Our workshop on “[https://advanced-recommender-systems.github.io/llm4graph/ *Large Language Models (LLMs) for Graph Learning*]” is accepted by The Web Conference 2024 (*WWW 2024*). 
 - 10/2023: Our paper "[https://dl.acm.org/doi/10.1145/3627100 *Computational Technologies for Fashion Recommendation: A Survey*]" got published by *ACM Computing Survey*.  
 - 10/2023: Two papers on [https://arxiv.org/abs/2310.09590 *MWP*] and [[https://arxiv.org/abs/2310.12640 *Sentence Ordering*] got accepted by Conference on Empirical Methods in Natural Language Processing 2023 (*EMNLP 2023*).  
 - 9/2023: Our papers  "[https://www.sciencedirect.com/science/article/abs/pii/S0306457323001711 *Personalized Fashion Outfit Generation with User Coordination Preference Learning*]" got published by Information Processing\& Management (*IP\&M*).
