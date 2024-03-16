@@ -33,6 +33,7 @@ Dr. *Yujuan Ding* is currently an Postdoctoral Fellow of the Department of Compu
 Data Mining, Information Retrieval and Multimedia Analysis, with a particular focus on: 
 - *Recommender Systems* 
 - *Computational Fashion*
+- *Large Foundation Model Applications*
 - *Vision and Language*
 # - *Large-scale Information Retrieval*
 
@@ -40,7 +41,7 @@ Data Mining, Information Retrieval and Multimedia Analysis, with a particular fo
 ~~~
 
 >>>[./openings.html *Openings: *] 
-Our research group are actively recruiting self-motivated *Postdoc, Ph.D. students, [https://www.polyu.edu.hk/gs/prospective-students/dual-phd-degree-programmes/ Dual PhD Degree students], MPhil/Msc, and Research Assistants*, etc. 
+Our research group is actively recruiting self-motivated *Postdoc, Ph.D. students, [https://www.polyu.edu.hk/gs/prospective-students/dual-phd-degree-programmes/ Dual PhD Degree students], MPhil/Msc, and Research Assistants*, etc. 
 Visiting scholars, interns, and self-funded students are also welcome. 
 Send me an email if you are interested. 
 \[[./openings.html *Please click here for position details.*]\]
@@ -49,6 +50,8 @@ Send me an email if you are interested.
 
 
 == News
+: {*2024*}
+- 03/2024: Our paper "[https://dl.acm.org/doi/10.1145/3627100 *FashionReGen: LLM-Empowered Fashion Report Generation*]" got published by *The Web Conference Demo 2024*. 
 : {*2023*}
 - 11/2023: Our workshop on “[https://advanced-recommender-systems.github.io/llm4graph/ *Large Language Models (LLMs) for Graph Learning*]” is accepted by The Web Conference 2024 (*WWW 2024*). 
 - 10/2023: Our paper "[https://dl.acm.org/doi/10.1145/3627100 *Computational Technologies for Fashion Recommendation: A Survey*]" got published by *ACM Computing Survey*.  
